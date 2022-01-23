@@ -37,8 +37,6 @@ I'm looking to collaborate on repositories from my field of study (listed above)
 # 📊 Stats
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=LUKICSLA&theme=dracula&show_icons=truecount_private=true)
 
-![](https://komarev.com/ghpvc/?username=LUKICSLA)
-
 # 📫 How to reach me
 - Discord: Lukyy#4488
 - <details>
