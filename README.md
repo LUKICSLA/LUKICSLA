@@ -23,7 +23,7 @@ I'm actively using these languages:
 - JavaScript
 
 # 🌱 Current projects
-I'm currently working on the website for the Department of applied informatics Faculty of natural sciences, University of Ss. Cyril and Methodius in Trnava.
+I'm currently working on the web for the Department of applied informatics Faculty of natural sciences, University of Ss. Cyril and Methodius in Trnava.
 
 # 👯 Collaboration
 I'm looking to collaborate on repositories from my field of study (listed above), website repositories (HTML, CSS, JS), or SQF if it's ArmA related project.
