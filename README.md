@@ -22,7 +22,7 @@ I'm actively using these languages:
 - MySQL
 - JavaScript
 
-# 🌱Contemporary projects
+# 🌱Current projects
 I'm currently working on the web for the Department of applied informatics Faculty of natural sciences, University of Ss. Cyril and Methodius in Trnava.
 
 # 👯 Collaboration
