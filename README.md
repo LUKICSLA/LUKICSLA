@@ -8,8 +8,8 @@ I'm a student of Applied informatics at the [Faculty of Natural Sciences of the 
 # 🎓 My skills
 | Language  | CEFR Level |
 | ------------- | ------------- |
-| English  | Upper intermediate / Advanced  |
-| German  | Elementary / Intermediate  |
+| English | Upper intermediate (B2) |
+| German | Elementary (A2) |
 
 I'm actively using these languages:
 - C
