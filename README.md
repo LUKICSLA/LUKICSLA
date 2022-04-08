@@ -18,13 +18,13 @@ I'm actively using these languages:
 - [SQF](https://community.bistudio.com/wiki/SQF_Syntax)
 - PHP
 - HTML
-- CSS
 - MySQL
 - JavaScript
 
-I'm also learning:
-- Laravel
-- Jekyll
+I'm also learning/using:
+- CSS
+- Laravel (beginner)
+- Jekyll (beginner)
 
 # 🌱Current projects
 I'm currently working on the web for the Department of applied informatics Faculty of natural sciences, University of Ss. Cyril and Methodius in Trnava. The website is used primarily for school purposes for the subject *Team project*.
