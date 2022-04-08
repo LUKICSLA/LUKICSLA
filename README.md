@@ -8,7 +8,7 @@ I'm a student of Applied informatics at the [Faculty of Natural Sciences of the 
 # 🎓 My skills
 | Language  | CEFR Level |
 | ------------- | ------------- |
-| English | Upper intermediate (B2) |
+| English | Upper-intermediate (B2) |
 | German | Elementary (A2) |
 
 I'm actively using these languages:
@@ -25,14 +25,13 @@ I'm actively using these languages:
 - Jekyll (beginner/learning)
 
 # 🌱Current projects
-I'm currently working on the web for the Department of applied informatics Faculty of natural sciences, University of Ss. Cyril and Methodius in Trnava. Website is used primarily for school purposes for the subject *Team project*.
+I'm currently working on the web for the Department of applied informatics Faculty of natural sciences, University of Ss. Cyril and Methodius in Trnava. The website is used primarily for school purposes for the subject *Team project*.
 
 # 👯 Collaboration
 I'm looking to collaborate on repositories from my field of study (listed above), website repositories (HTML, CSS, JS), or SQF if it's ArmA related project.
 
 # ✨ My portfolio
-~~*Note: for my complete portfolio click [here](https://lukicsla.github.io/).*~~
-- [Web sources for the Department of applied informatics Faculty of natural sciences, University of Ss. Cyril and Methodius in Trnava](https://github.com/LUKICSLA/kaiweb) ([live preview](http://kai.rf.gd/)) [Oct 1, 2021 - PRESENT]
+- [Web sources for the Department of applied informatics Faculty of natural sciences, University of Ss. Cyril and Methodius in Trnava](https://github.com/LUKICSLA/kaiweb) ([live preview](http://kai.rf.gd/)) [October 1, 2021 - PRESENT]
 - [multiplayer scenarios & features for CSLA: Iron Curtain cDLC](https://store.steampowered.com/app/1294440/Arma_3_Creator_DLC_CSLA_Iron_Curtain/) [June 18, 2021 - PRESENT]
 - [EELC utility](https://github.com/LUKICSLA/EELC) [November 28, 2018]
 
