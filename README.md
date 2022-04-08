@@ -30,7 +30,7 @@ I'm also learning/using:
 I'm currently working on the web for the Department of applied informatics Faculty of natural sciences, University of Ss. Cyril and Methodius in Trnava. The website is used primarily for school purposes for the subject *Team project*.
 
 # 👯 Collaboration
-I'm looking to collaborate on repositories from my field of study (listed above), website repositories (HTML, CSS, JS), or SQF if it's ArmA related project.
+I'm looking to collaborate on repositories from my field of study (listed above), website repositories (HTML, CSS, JS, PHP), or SQF if it's ArmA related project.
 
 # ✨ My portfolio
 - [Web sources for the Department of applied informatics Faculty of natural sciences, University of Ss. Cyril and Methodius in Trnava](https://github.com/LUKICSLA/kaiweb) ([live preview](http://kai.rf.gd/)) [October 1, 2021 - PRESENT]
