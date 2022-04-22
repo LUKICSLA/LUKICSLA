@@ -40,7 +40,7 @@ I'm looking to collaborate on repositories from my field of study (listed above)
 # 📊 My stats
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=LUKICSLA&theme=vue-dark&show_icons=truecount_private=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LUKICSLA&langs_count=8&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LUKICSLA&langs_count=8&theme=vue-dark&layout=compact)
 
 # 📫 How to reach me
 - Discord: Lukyy#4488
