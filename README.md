@@ -38,7 +38,7 @@ I'm looking to collaborate on repositories from my field of study (listed above)
 - [EELC utility](https://github.com/LUKICSLA/EELC) [November 28, 2018]
 
 # 📊 My stats
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=LUKICSLA&theme=vue-dark&show_icons=truecount_private=true&include_all_commits&bg_color=90,273849,3da37a&title_color=fff&text_color=fff)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=LUKICSLA&theme=vue-dark&show_icons=true&count_private=true&include_all_commits=true&bg_color=90,273849,3da37a&title_color=fff&text_color=fff)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LUKICSLA&langs_count=8&theme=vue-dark&layout=compact&bg_color=90,273849,3da37a&title_color=fff&text_color=fff)
 
