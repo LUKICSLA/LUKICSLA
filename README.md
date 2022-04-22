@@ -43,8 +43,9 @@ I'm looking to collaborate on repositories from my field of study (listed above)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LUKICSLA&langs_count=8&theme=vue-dark&layout=compact&bg_color=90,273849,3da37a&title_color=fff&text_color=fff)
 
-# 📫 How to reach me
+# 📫 Social networks / How to reach me
 - Discord: Lukyy#4488
+- [My GitLab (activity overview)](https://gitlab.com/users/lukicsla/activity)
 - <details>
   <summary>Show my email</summary>
     luki.m2k@gmail.com
