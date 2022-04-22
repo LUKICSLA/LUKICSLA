@@ -37,8 +37,10 @@ I'm looking to collaborate on repositories from my field of study (listed above)
 - [multiplayer scenarios & features for CSLA: Iron Curtain cDLC](https://store.steampowered.com/app/1294440/Arma_3_Creator_DLC_CSLA_Iron_Curtain/) [June 18, 2021 - PRESENT]
 - [EELC utility](https://github.com/LUKICSLA/EELC) [November 28, 2018]
 
-# 📊 Stats
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=LUKICSLA&theme=dracula&show_icons=truecount_private=true)
+# 📊 My stats
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=LUKICSLA&theme=vue-dark&show_icons=truecount_private=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LUKICSLA&langs_count=8&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 # 📫 How to reach me
 - Discord: Lukyy#4488
