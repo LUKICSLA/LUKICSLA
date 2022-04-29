@@ -46,7 +46,5 @@ I'm looking to collaborate on repositories from my field of study (listed above)
 # 📫 Social networks / How to reach me
 - Discord: Lukyy#4488
 - [My GitLab (activity overview)](https://gitlab.com/users/lukicsla/activity)
-- <details>
-  <summary>Show my email</summary>
-    luki.m2k@gmail.com
+- E-mail: *on the left side under my name*
 </details>
