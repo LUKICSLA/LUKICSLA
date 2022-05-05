@@ -12,19 +12,28 @@ I'm a student of Applied informatics at the [Faculty of Natural Sciences of the 
 | German | Elementary (A2) |
 
 Other:
-| Language  | Status/Knowledge |
-| ------------- | ------------- |
-| C | Actively
-| C++ | Actively
-| C# | Actively
-| [SQF](https://community.bistudio.com/wiki/SQF_Syntax) | Actively
-| PHP | Actively
-| HTML | Actively
-| MySQL | Actively
-| JavaScript | Actively
-| CSS | Actively
-| Laravel | Learning/beginner
-| Jekyll | Learning/beginner
+<table border="0">
+ <tr>
+    <td><b style="font-size:25px">Active usage</b></td>
+    <td><b style="font-size:25px">Learning/beginner</b></td>
+ </tr>
+ <tr>
+    <td>
+    <img width="500" height="0">
+        <ul>
+            <li>C, C++, C#</li>
+            <li>MySQL</li>
+            <li>SQF (https://community.bistudio.com/wiki/SQF_Syntax)</li>
+            <li>HTML, PHP, CSS, JS</li>
+        </ul>
+    <td>
+    <img width="500" height="0">
+        <ul>
+            <li>Laravel</li>
+            <li>Jekyll</li>
+        </ul>
+ </tr>
+</table>
 
 # 🌱Current projects
 We (me and my two classmates) are currently working on the web for the Department of applied informatics Faculty of natural sciences, University of Ss. Cyril and Methodius in Trnava. The website is used primarily for school purposes for the subject *Team project*.
