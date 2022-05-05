@@ -42,7 +42,7 @@ We (me and my two classmates) are currently working on the web for the Departmen
 I'm looking to collaborate on repositories from my field of study (listed above), website repositories (HTML, CSS, JS, PHP), or SQF if it's ArmA related project.
 
 # ✨ My portfolio
-| PROJECT  | DEVELOPMENT DATE RANGE | AUTHOR(S) | REPOSITORY/PREVIEW
+| PROJECT  | DEVELOPMENT PERIOD | AUTHOR(S) | REPOSITORY/PREVIEW
 | ------------- | ------------- | ------------- | ------------- |
 | Web sources for the Department of applied informatics Faculty of natural sciences, University of Ss. Cyril and Methodius in Trnava | October 1, 2021 - PRESENT | Lukáš M., Timea D., Andrea H. | [Open repository](https://github.com/LUKICSLA/kaiweb), [live preview](http://kai.rf.gd/)
 | Basic dino game in Godot engine inspired by Chrome dino game | January 13, 2022 - February 1, 2022 | Lukáš M., Timea D. | [Open repository](https://github.com/LUKICSLA/dinogame) 
