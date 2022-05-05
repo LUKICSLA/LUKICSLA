@@ -36,7 +36,7 @@ Other:
 </table>
 
 # 🌱Current projects
-We (me and my two classmates) are currently working on the web for the Department of applied informatics Faculty of natural sciences, University of Ss. Cyril and Methodius in Trnava. The website is used primarily for school purposes for the subject *Team project*.
+We (me and my two classmates) are currently working on the web for the Department of applied informatics, Faculty of Natural Sciences of the University of Ss. Cyril and Methodius in Trnava. The website is used primarily for school purposes for the subject *Team project*.
 
 # 👯 Collaboration
 I'm looking to collaborate on repositories from my field of study (listed above), website repositories (HTML, CSS, JS, PHP), or SQF if it's ArmA related project.
