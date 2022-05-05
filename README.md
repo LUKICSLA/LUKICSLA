@@ -48,9 +48,8 @@ I'm looking to collaborate on repositories from my field of study (listed above)
 | Basic dino game in Godot engine inspired by Chrome dino game | January 13, 2022 - February 1, 2022 | Lukáš M., Timea D. | [Open repository](https://github.com/LUKICSLA/dinogame) 
 | Multiplayer scenarios & features for CSLA: Iron Curtain cDLC | June 18, 2021 - PRESENT | CSLA Studio | [Open Steam Store](https://store.steampowered.com/app/1294440/Arma_3_Creator_DLC_CSLA_Iron_Curtain/)
 | EELC utility | November 28, 2018 | Lukáš M. | [Open repository](https://github.com/LUKICSLA/EELC)
-| My guides | December 16, 2014 - PRESENT | CSLA Studio | [Show guides](https://steamcommunity.com/id/lukicsla/myworkshopfiles/?section=guides)
-| My Steam Workshop for Arma 3 | September 26, 2014 - PRESENT | CSLA Studio | [Open Steam Workshop](https://steamcommunity.com/id/lukicsla/myworkshopfiles/?appid=107410&sort=score&browsefilter=myfiles&view=imagewall)
-
+| My guides | December 16, 2014 - PRESENT | listed in entry details | [Show guides](https://steamcommunity.com/id/lukicsla/myworkshopfiles/?section=guides)
+| My Steam Workshop for Arma 3 | September 26, 2014 - PRESENT | listed in entry details | [Open Steam Workshop](https://steamcommunity.com/id/lukicsla/myworkshopfiles/?appid=107410&sort=score&browsefilter=myfiles&view=imagewall)
 
 # 📊 My stats
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=LUKICSLA&theme=vue-dark&show_icons=true&count_private=true&include_all_commits=true&bg_color=90,273849,3da37a&title_color=fff&text_color=fff)
