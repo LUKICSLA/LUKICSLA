@@ -47,7 +47,7 @@ I'm looking to collaborate on repositories from my field of study (listed above)
 | Web sources for the Department of applied informatics Faculty of natural sciences, University of Ss. Cyril and Methodius in Trnava | October 1, 2021 - PRESENT | Lukáš M., Timea D., Andrea H. | [Open repository](https://github.com/LUKICSLA/kaiweb), [live preview](http://kai.rf.gd/)
 | Basic dino game in Godot engine inspired by Chrome dino game | January 13, 2022 - February 1, 2022 | Lukáš M., Timea D. | [Open repository](https://github.com/LUKICSLA/dinogame) 
 | Multiplayer scenarios & features for CSLA: Iron Curtain cDLC | June 18, 2021 - PRESENT | CSLA Studio | [Open Steam Store](https://store.steampowered.com/app/1294440/Arma_3_Creator_DLC_CSLA_Iron_Curtain/)
-| EELC utility | November 28, 2018 | Me | [Open repository](https://github.com/LUKICSLA/EELC)
+| EELC utility | November 28, 2018 | Lukáš M. | [Open repository](https://github.com/LUKICSLA/EELC)
 | My Steam Workshop for Arma 3 |September 26, 2014 - PRESENT | CSLA Studio | [Open Steam Workshop](https://steamcommunity.com/id/lukicsla/myworkshopfiles/?appid=107410&sort=score&browsefilter=myfiles&view=imagewall)
 
 # 📊 My stats
