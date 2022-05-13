@@ -42,6 +42,8 @@ We (me and my two classmates) are currently working on the web for the Departmen
 I'm looking to collaborate on repositories from my field of study (listed above), website repositories (HTML, CSS, JS, PHP), or SQF if it's ArmA related project.
 
 # ✨ My portfolio
+For the complete portfolio click [here](https://lukicsla.github.io/).
+
 | Project | Development period | Author(s) | Repository/preview
 | ------------- | ------------- | ------------- | ------------- |
 | Basic dino game in Godot engine inspired by Chrome dino game | January 13, 2022 - February 1, 2022 | Lukáš M., Timea D. | [Open repository](https://github.com/LUKICSLA/dinogame) 
