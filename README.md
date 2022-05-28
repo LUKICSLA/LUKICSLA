@@ -25,6 +25,7 @@ Other:
             <li>MySQL</li>
             <li>SQF (https://community.bistudio.com/wiki/SQF_Syntax)</li>
             <li>HTML, PHP, CSS, JS</li>
+            <li>Materialize</li>
         </ul>
     <td>
     <img width="500" height="0">
