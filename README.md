@@ -5,7 +5,7 @@ My name is Lukáš Maár (I am also known as "Luki" or "Lukyy") and I am junior 
 
 I'm a student of Applied informatics at the [Faculty of Natural Sciences of the University of Ss. Cyril and Methodius in Trnava](https://www.ucm.sk/en/), Slovakia.
 
-I have a passion for programming, web development, computer networks, and hiking.
+I have a passion for programming, web development, game development, computer networks, and hiking.
 
 # 🎓 My skills
 | Language  | CEFR Level |
