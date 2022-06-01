@@ -55,9 +55,11 @@ I'm looking to collaborate on repositories from my field of study (listed above)
 | My Steam Workshop for Arma 3 | September 26, 2014 - PRESENT | listed in entry details | [Open Steam Workshop](https://steamcommunity.com/id/lukicsla/myworkshopfiles/?appid=107410&sort=score&browsefilter=myfiles&view=imagewall)
 
 # 📊 My stats
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=LUKICSLA&theme=vue-dark&show_icons=true&count_private=true&include_all_commits=true&bg_color=90,273849,3da37a&title_color=fff&text_color=fff)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=LUKICSLA&theme=vue-dark&show_icons=true&count_private=true&include_all_commits=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LUKICSLA&langs_count=8&theme=vue-dark&layout=compact&bg_color=90,273849,3da37a&title_color=fff&text_color=fff)
+![Another stats](https://github-readme-streak-stats.herokuapp.com/?user=LUKICSLA&theme=vue-dark&bg_color=90,273849,3da37a&title_color=fff&text_color=fff)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LUKICSLA&langs_count=8&theme=vue-dark&layout=compact)
 
 # 📫 Social networks / How to reach me
 - Discord: Lukyy#4488
