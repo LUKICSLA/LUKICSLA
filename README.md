@@ -33,6 +33,7 @@ Other:
     <img width="500" height="0">
         <ul>
             <li>Jekyll</li>
+            <li>VueJS</li>
         </ul>
  </tr>
 </table>
