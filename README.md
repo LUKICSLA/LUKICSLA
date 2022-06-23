@@ -24,7 +24,7 @@ Other:
     <img width="500" height="0">
         <ul>
             <li>C, C++, C#</li>
-            <li>Laravel</li>
+            <li>Laravel (PHP framework)</li>
             <li>MySQL</li>
             <li>SQF (https://community.bistudio.com/wiki/SQF_Syntax)</li>
             <li>HTML, PHP, CSS (Materialize/Bootstrap), JavaScript</li>
