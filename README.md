@@ -38,7 +38,7 @@ Other:
  </tr>
 </table>
 
-# 🌱Current projects
+# 🌱Current projects (complete list below)
 We (me and my two classmates) are currently working on the web for the Department of Applied Informatics, Faculty of Natural Sciences of the University of Ss. Cyril and Methodius in Trnava. The website is used primarily for school purposes for the subject *Team project*.
 
 # 👯 Collaboration
