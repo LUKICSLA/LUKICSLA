@@ -5,7 +5,7 @@ My name is Lukáš Maár (I am also known as "Luki" or "Lukyy") and I am junior 
 
 I'm a student of Applied informatics at the [Faculty of Natural Sciences of the University of Ss. Cyril and Methodius in Trnava](https://www.ucm.sk/en/), Slovakia.
 
-I have a passion for programming, web development, game development, computer networks, and hiking.
+I have a passion for web development, server management, game development, programming, computer networks, and hiking.
 
 # 🎓 My skills
 | Language  | CEFR Level |
@@ -39,7 +39,7 @@ Other:
 </table>
 
 # 🌱Current projects (complete list below)
-We (me and my two classmates) are currently working on the web for the Department of Applied Informatics, Faculty of Natural Sciences of the University of Ss. Cyril and Methodius in Trnava. The website is used primarily for school purposes for the subject *Team project*.
+We are currently working on the web for the Department of Applied Informatics, Faculty of Natural Sciences of the University of Ss. Cyril and Methodius in Trnava. The website is used primarily for school purposes for the subject *Team project*.
 
 # 👯 Collaboration
 I'm looking to collaborate on repositories from my field of study (listed above), website repositories (HTML, CSS, JS, PHP), or SQF if it's ArmA related project.
