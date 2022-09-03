@@ -48,7 +48,7 @@ I'm looking to collaborate on repositories from my field of study (listed above)
 
 | Project | Development period | Author(s) | Repository/preview
 | ------------- | ------------- | ------------- | ------------- |
-| Cbot - CSLA Studio Discord assistance bot | PRESENT | Lukáš M. | [Open repository](https://github.com/LUKICSLA/CSLAbot), [live preview](https://discord.gg/jBWHyUWu9D)
+| Cbot - CSLA Studio Discord assistance bot | PRESENT | Lukáš M. | Private repository, [live preview](https://discord.gg/jBWHyUWu9D)
 | Basic dino game in Godot engine inspired by Chrome dino game | January 13, 2022 - February 1, 2022 | Lukáš M., Timea D. | [Open repository](https://github.com/LUKICSLA/dinogame) 
 | Website for the Department of Applied Informatics Faculty of Natural Sciences, University of Ss. Cyril and Methodius in Trnava | October 1, 2021 - PRESENT | Lukáš M., Timea D., Andrea H. | [Open repository](https://github.com/LUKICSLA/kaiweb), [live preview](http://kai.rf.gd/)
 | Multiplayer scenarios & features for CSLA: Iron Curtain cDLC | June 18, 2021 - PRESENT | CSLA Studio | [Open Steam Store](https://store.steampowered.com/app/1294440/Arma_3_Creator_DLC_CSLA_Iron_Curtain/)
