@@ -25,7 +25,7 @@ Other:
         <ul>
             <li>C, C++, C#</li>
             <li>Laravel</li>
-            <li>MySQL</li>
+            <li>MySQL, Oracle</li>
             <li>SQF (https://community.bistudio.com/wiki/SQF_Syntax)</li>
             <li>HTML, PHP, CSS (+ Materialize/Bootstrap), JavaScript</li>
         </ul>
