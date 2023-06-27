@@ -25,9 +25,10 @@ Other:
         <ul>
             <li>C, C++, C#</li>
             <li>Laravel</li>
-            <li>MySQL, Oracle</li>
+            <li>Flutter</li>
             <li>SQF (https://community.bistudio.com/wiki/SQF_Syntax)</li>
             <li>HTML, PHP, CSS (+ Materialize/Bootstrap), JavaScript</li>
+            <li>MySQL, MariaDB, Oracle</li>
         </ul>
     <td>
     <img width="500" height="0">
