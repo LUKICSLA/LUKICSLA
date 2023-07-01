@@ -29,6 +29,7 @@ Other:
             <li>SQF (https://community.bistudio.com/wiki/SQF_Syntax)</li>
             <li>HTML, PHP, CSS (+ Materialize/Bootstrap), JavaScript</li>
             <li>MySQL, MariaDB, Oracle</li>
+            <li>Docker</li>
         </ul>
     <td>
     <img width="500" height="0">
