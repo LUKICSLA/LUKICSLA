@@ -68,7 +68,8 @@ I'm looking to collaborate on repositories from my field of study (listed above)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LUKICSLA&langs_count=8&theme=vue-dark&layout=compact)
 
 # 📫 Social networks / How to reach me
-- Discord: Lukyy#4488
-- [My GitLab (activity overview)](https://gitlab.com/users/lukicsla/activity)
+- Discord: `luki_csla` (or `Lukyy#4488`)
+- Docker Hub: `lukicsla` ([click here to open my profile](https://hub.docker.com/u/lukicsla))
+- GitLab: `lukicsla` ([click here to open my profile](https://gitlab.com/users/lukicsla))
 - E-mail: *on the left side under my name*
 </details>
