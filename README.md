@@ -52,7 +52,7 @@ I'm looking to collaborate on repositories from my field of study (listed above)
 | ------------- | ------------- | ------------- | ------------- |
 | Teami - web-based application to support teamwork (bachelor thesis) | April 2022 - May 2023 | Lukáš M. |
 | MATL Express - 2D Unity game focused on Math, school project for the subject Multimedia systems | September 20, 2022 - January 30, 2023 | [404 Development](https://github.com/fhfDev) | [Open repository](https://github.com/fhfDev/packageDelivery)
-| Cbot - CSLA Studio Discord assistance bot | PRESENT | Lukáš M. | [Development](https://github.com/orgs/cslastudio/projects/2), [live preview](https://discord.gg/jBWHyUWu9D)
+| Cbot - CSLA Studio Discord assistance bot | September 2022 - March 2023 | Lukáš M. | [Development](https://github.com/orgs/cslastudio/projects/2), [live preview](https://discord.gg/jBWHyUWu9D)
 | Basic dino game in Godot engine inspired by Chrome dino game | January 13, 2022 - February 1, 2022 | Lukáš M., Timea D. | [Open repository](https://github.com/LUKICSLA/dinogame) 
 | Website for the Department of Applied Informatics Faculty of Natural Sciences, University of Ss. Cyril and Methodius in Trnava | October 1, 2021 - PRESENT | Lukáš M., Timea D., Andrea H. | [Open repository](https://github.com/LUKICSLA/kaiweb), [live preview](http://kai.rf.gd/)
 | Multiplayer scenarios & features for CSLA: Iron Curtain cDLC | June 18, 2021 - PRESENT | [CSLA Studio](http://csla-studio.blogspot.com/) | [Open Steam Store](https://store.steampowered.com/app/1294440/Arma_3_Creator_DLC_CSLA_Iron_Curtain/)
