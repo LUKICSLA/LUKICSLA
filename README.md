@@ -50,7 +50,7 @@ I'm looking to collaborate on repositories from my field of study (listed above)
 
 | Project | Development period | Author(s) | Repository/preview
 | ------------- | ------------- | ------------- | ------------- |
-| Teami - web-based application to support teamwork (bachelor thesis) | PRESENT | Lukáš M. |
+| Teami - web-based application to support teamwork (bachelor thesis) | April 2022 - May 2023 | Lukáš M. |
 | MATL Express - 2D Unity game focused on Math, school project for the subject Multimedia systems | September 20, 2022 - January 30, 2023 | [404 Development](https://github.com/fhfDev) | [Open repository](https://github.com/fhfDev/packageDelivery)
 | Cbot - CSLA Studio Discord assistance bot | PRESENT | Lukáš M. | [Development](https://github.com/orgs/cslastudio/projects/2), [live preview](https://discord.gg/jBWHyUWu9D)
 | Basic dino game in Godot engine inspired by Chrome dino game | January 13, 2022 - February 1, 2022 | Lukáš M., Timea D. | [Open repository](https://github.com/LUKICSLA/dinogame) 
