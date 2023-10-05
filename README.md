@@ -30,6 +30,7 @@ Other:
             <li>HTML, PHP, CSS (+ Materialize/Bootstrap), JavaScript</li>
             <li>MySQL, MariaDB, Oracle</li>
             <li>Docker</li>
+            <li>Powershell</li>
         </ul>
     <td>
     <img width="500" height="0">
