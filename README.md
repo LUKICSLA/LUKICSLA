@@ -1,7 +1,7 @@
 # 👋🏻 Hello there
 Hello!
 
-My name is Lukáš Maár (I am also known as "Luki" or "Lukyy") and I am junior level designer and QA tester at [CSLA Studio](https://csla-studio.blogspot.com/). We are the creators of [CSLA: Iron Curtain CDLC](https://store.steampowered.com/app/1294440/Arma_3_Creator_DLC_CSLA_Iron_Curtain/), mods [ČSLA](https://csla-studio.blogspot.com/p/download.html) and [ČSLA 2](https://csla-studio.blogspot.com/p/download.html) created for games Operation Flashpoint, ArmA: Armed Assault, and Arma 2: Combined Operations.
+My name is Lukáš Maár (I am also known as "Luki" or "Lukyy") and I am level designer and QA tester at [CSLA Studio](https://csla-studio.blogspot.com/). We are the creators of [CSLA: Iron Curtain CDLC](https://store.steampowered.com/app/1294440/Arma_3_Creator_DLC_CSLA_Iron_Curtain/), mods [ČSLA](https://csla-studio.blogspot.com/p/download.html) and [ČSLA 2](https://csla-studio.blogspot.com/p/download.html) created for games Operation Flashpoint, ArmA: Armed Assault, and Arma 2: Combined Operations.
 
 I'm a student of Applied informatics at the [Faculty of Natural Sciences of the University of Ss. Cyril and Methodius in Trnava](https://www.ucm.sk/en/), Slovakia and author of ["The security of Laravel applications" paper](https://conferences.ukf.sk/svk-2023/assets/documents/Zbornik_SVK_2023.pdf) (p. 243 - 248).
 
