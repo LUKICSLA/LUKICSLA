@@ -24,6 +24,7 @@ Other:
     <img width="500" height="0">
         <ul>
             <li>C, C++, C#</li>
+            <li>Python</li>
             <li>Laravel</li>
             <li>Flutter</li>
             <li>SQF (https://community.bistudio.com/wiki/SQF_Syntax)</li>
