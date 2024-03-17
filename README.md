@@ -5,7 +5,7 @@ My name is Lukáš Maár (I am also known as "Luki" or "Lukyy") and I am a level
 
 In 2023, we, together with my supervisor, PaedDr. Mgr. Miroslav Ölvecký, PhD., wrote [a publication titled "The security of Laravel applications"](https://www.fpvai.ukf.sk/svk-2023/assets/documents/Zbornik_SVK_2023.pdf) (p. 243 - 248) for the Student Scientific Conference held at the Faculty of Natural Sciences of the UMB in Banská Bystrica.
 
-I am passionate about web development, information security, game development, programming, server management, computer networks, and hiking.
+I am passionate about digital forensics, information security, web development, game development, programming, server management, and computer networks.
 
 # 🎓 My skills
 | Language  | CEFR Level |
